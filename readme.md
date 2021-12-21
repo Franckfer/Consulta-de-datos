@@ -2,7 +2,7 @@
 
 <h3>Ejercicio de DIGITAL HOUSE donde hacemos consultas que permiten insertar, actualizar, y eliminar registros de una tabla, traer datos de una tabla a través de diversos filtros de búsqueda, organizar los datos de una manera mas eficiente y otros.</h3>
 
-<a href="https://github.com/XmauricioX/Middlewares/blob/master/document/M06C02---Ejercitació---Manipulación-y-consulta-de-datos.pdf">ejercitaciones del PDF<a>
+<a href="https://github.com/Franckfer/Manipulaci-n-y-consulta-de-datos/blob/master/document/M06C02---Ejercitació---Manipulación-y-consulta-de-datos.pdf">ejercitaciones del PDF<a>
 
 <h2>Imagenes previas del desafio<h2>
 
